@@ -2,4 +2,8 @@
 
 body {
   background-color: rgba(99, 107, 116, 0.712);
+  margin-right: auto;
+}
+h1, h2 {
+  color: yellow;
 }
