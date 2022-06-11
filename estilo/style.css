@@ -1,9 +1,14 @@
 @charset "UTF-8";
 
 body {
-  background-color: rgba(99, 107, 116, 0.712);
+  background-color:bisque;
   margin-right: auto;
+  font-size: 20pt;
 }
-h1, h2 {
-  color: yellow;
+ h2 {
+  color:darkorange;
+}
+
+ .titulo {
+  color: brown;
 }
