@@ -50,7 +50,7 @@ function animaScroll() {
     const sectionTop = section.getBoundingClientRect().top;
     console.log(sectionTop);
     if (sectionTop < 0) {
-      console.log('animar');
+      section.classList.add('ativo');
     }
   });
 }
